@@ -1,0 +1,12 @@
+name: dislocation_lookup
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - matplotlib
+  - jupyterlab
+  - notebook
+  - ipympl
+  - pip
+
